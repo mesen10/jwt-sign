@@ -1,0 +1,15 @@
+{
+  "name": "jwt-sign",
+  "version": "1.0.0",
+  "description": "Sign JWT with HS256",
+  "main": "signJwtHs256.js",
+  "scripts": {
+    "dev": "node signJwtHs256.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mert Esen",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
